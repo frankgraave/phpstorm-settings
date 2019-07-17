@@ -6,6 +6,8 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
